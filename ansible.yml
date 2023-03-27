@@ -1,0 +1,7 @@
+---
+- name: Do Any
+  hosts: all
+  gather_facts: false
+  user: ubuntu
+  tasks:
+    - command: touch sample.py

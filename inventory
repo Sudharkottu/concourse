@@ -1,2 +1,2 @@
 [all]
-localhost
+10.6.24.212 ansible_ssh_user=skottu643 ansible_ssh_pass=skottu643
